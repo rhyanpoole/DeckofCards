@@ -55,7 +55,7 @@ def main():
     for c in dealt:
         print(str(c))
 
-    print(f"\nThere are {deck.count()} cards left in the deck.\n"
+    print(f"\nThere are {deck.count()} cards left in the deck.\n")
     print("Good luck!")
     input("Press any key to continue . . .")
 
